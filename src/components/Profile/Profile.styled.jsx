@@ -8,9 +8,9 @@ export const ProfileCard = styled.section`
   gap: 10px;
   padding-top: 50px;
   margin: 0 auto;
-
-  width:400px;
-  border-radius:30px;
+  max-width: 100%;
+  width: 400px;
+  border-radius: 30px;
   box-shadow: -1px -1px 1px #fff, 1px 1px 1px #babecc;
   background-color:#eed7b8;
   overflow: hidden;
